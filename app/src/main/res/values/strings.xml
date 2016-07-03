@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio13.2_Almacenamiento_SharedPreferences</string>
+    <string name="button">Grabar</string>
+    <string name="button2">Recuperar</string>
+    <string name="tv1">Nombre de la persona:</string>
+    <string name="tv2">Datos</string>
+</resources>
